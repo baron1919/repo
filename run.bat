@@ -1,1 +1,0 @@
-python home7.py

@@ -1,8 +1,0 @@
-centralus
-eastus
-eastus2
-northcentralus
-southcentralus
-westus2
-westus
-westcentralus
