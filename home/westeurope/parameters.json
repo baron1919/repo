@@ -1,1 +1,1 @@
-{"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#", "contentVersion": "1.0.0.0", "parameters": {"workspaceName": {"value": "westeu155527104913"}, "location": {"value": "westeurope"}, "tier": {"value": "standard"}}}
+{"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#", "contentVersion": "1.0.0.0", "parameters": {"workspaceName": {"value": "westeu1555356159722"}, "location": {"value": "westeurope"}, "tier": {"value": "standard"}}}
