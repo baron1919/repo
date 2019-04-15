@@ -1,0 +1,3 @@
+Microsoft.Storage/storageAccounts/XXX
+XXX.blob.core.windows.net
+[listKeys('Microsoft.Storage/storageAccounts/XXX', '2015-05-01-preview').key1]

