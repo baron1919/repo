@@ -1,1 +1,1 @@
-2
+{"sessionId":"6daac114-455a-473f-a1a8-d489376e072b","storyId":"story://Content-Private/content/d-databricksml/1-databricksml/a_databricksml","event":3,"provisioningId":"c735630e-1990-4438-8563-8c496f58c80c","data":{"pageNum":1,"pageTitle":"Scenario 1","pageStartedAt":"2019-04-15T14:56:09.177Z","pageFinishedAt":"2019-04-15T14:56:13.122Z","storyDurationSecs":3.945},"experienceId":"","trackId":""}
