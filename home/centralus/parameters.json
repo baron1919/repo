@@ -1,1 +1,1 @@
-{"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#", "contentVersion": "1.0.0.0", "parameters": {"workspaceName": {"value": "centra1555611678149"}, "location": {"value": "centralus"}, "tier": {"value": "standard"}}}
+{"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#", "contentVersion": "1.0.0.0", "parameters": {"workspaceName": {"value": "centra1555884384865"}, "location": {"value": "centralus"}, "tier": {"value": "trial"}}}
