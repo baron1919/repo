@@ -1,1 +1,1 @@
-{"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#", "contentVersion": "1.0.0.0", "parameters": {"workspaceName": {"value": "westus1555884400951"}, "location": {"value": "westus2"}, "tier": {"value": "trial"}}}
+{"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#", "contentVersion": "1.0.0.0", "parameters": {"workspaceName": {"value": "westus1555888735772"}, "location": {"value": "westus2"}, "tier": {"value": "trial"}}}
