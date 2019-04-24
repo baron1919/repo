@@ -14,7 +14,7 @@ from threading import Thread
 
 allreg=['centralus','eastus','eastus2','northcentralus','southcentralus','westcentralus','westus','westus2']  
     
-tablocation=['eastus']
+tablocation=['westus2']
 
 
 
