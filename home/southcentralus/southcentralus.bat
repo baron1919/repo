@@ -1,6 +1,6 @@
 set deploymentName="rd0depsouthcentralus"
-set subscriptionId="022954fd-a4b9-4e6f-a3bf-440504173e94"
-set resourceGroupName="rg988040"
+set subscriptionId="ee7c1e9d-01b9-4075-bf44-63806c711cfe"
+set resourceGroupName="rg797364"
 set resourceGroupLocation="southcentralus"
 
 
